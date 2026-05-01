@@ -74,9 +74,9 @@ Open your browser at `http://localhost:8501`
 
 ## 👨‍💻 Author
 
-**Your Name**
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+**Siddhi Kshirsagar**
+- LinkedIn: https://www.linkedin.com/in/siddhi-kshirsagar04/
+- GitHub: https://github.com/SiddhiK13
 
 ---
 
