@@ -6,8 +6,7 @@ Built with Python, Groq LLaMA AI, and Streamlit.
 
 ---
 
-## 🚀 Live Demo
-
+## 🚀 Live Demo :   https://resumeanalyzer-e9sghfgnp7p4fbippvstch.streamlit.app/
 > Upload your resume PDF + paste any job description → get AI feedback in seconds
 
 ---
