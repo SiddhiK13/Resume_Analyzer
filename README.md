@@ -37,8 +37,8 @@ Built with Python, Groq LLaMA AI, and Streamlit.
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/ai-resume-analyzer.git
-cd ai-resume-analyzer
+git clone https://github.com/SiddhiK13/Resume-Analyzer.git
+cd Resume-Analyzer
 
 ### 2. Install dependencies
 
